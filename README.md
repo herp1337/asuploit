@@ -1,5 +1,5 @@
 # asuploit
 asu lo bgsd 
-instalasi di termux:<tt>$cd asuploit<br />
+instalasi di termux:$cd asuploit<br />
 $python2 asuploit.py<br />
-</tt>Note: If Error Please Install Requesting Module
+Note: If Error Please Install Requesting Module
